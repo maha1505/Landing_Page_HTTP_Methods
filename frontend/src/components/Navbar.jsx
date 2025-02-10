@@ -26,7 +26,7 @@ const Navbar = () => {
       <AppBar position="static" sx={{ backgroundColor: "#0077B6" }}>
         <Toolbar>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1, fontWeight: "bold", cursor: "pointer", "&:hover": { color: "#87CEEB" } }}>
-            Academy Name
+            Academy
           </Typography>
 
           {/* Desktop Navigation */}
